@@ -1,0 +1,28 @@
+
+.conteudo{
+	-fx-background-color: black;
+	
+	
+}
+
+.label{
+	-fx-text-fill: #eee;
+	-fx-font-size: 20px;
+}
+
+.botao{
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-border: none;
+	-fx-background-radius: 10px;
+}
+
+
+.verde{
+	-fx-text-fill:#80ff00;
+}
+
+.vermelho{
+	-fx-text-fill: #ff0000;
+	
+}
