@@ -33,7 +33,9 @@ public class Caixa extends HBox {
 		
 		i++;
 		
-		if(i == 6) i = 0;
+		if(i == 6) {
+			i = 0;
+		}
 	}
 	
 	public Caixa comTexto(String texto) {
